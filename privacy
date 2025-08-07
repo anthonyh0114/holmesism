@@ -1,0 +1,304 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Holmesism Privacy Policy</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f8f9fa;
+        }
+        .container {
+            background-color: white;
+            padding: 40px;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #2c3e50;
+            border-bottom: 3px solid #3498db;
+            padding-bottom: 10px;
+            margin-bottom: 30px;
+        }
+        h2 {
+            color: #34495e;
+            margin-top: 30px;
+            margin-bottom: 15px;
+            border-left: 4px solid #3498db;
+            padding-left: 15px;
+        }
+        h3 {
+            color: #2c3e50;
+            margin-top: 20px;
+            margin-bottom: 10px;
+        }
+        p {
+            margin-bottom: 15px;
+        }
+        ul {
+            margin-bottom: 15px;
+            padding-left: 20px;
+        }
+        li {
+            margin-bottom: 8px;
+        }
+        strong {
+            color: #2c3e50;
+        }
+        .highlight {
+            background-color: #e8f4fd;
+            padding: 15px;
+            border-left: 4px solid #3498db;
+            margin: 20px 0;
+            border-radius: 4px;
+        }
+        .footer {
+            margin-top: 40px;
+            padding-top: 20px;
+            border-top: 1px solid #eee;
+            text-align: center;
+            color: #7f8c8d;
+            font-style: italic;
+        }
+        .contact-info {
+            background-color: #f8f9fa;
+            padding: 15px;
+            border-radius: 4px;
+            margin: 20px 0;
+        }
+        .compliance-box {
+            background-color: #e8f5e8;
+            padding: 15px;
+            border-radius: 4px;
+            margin: 20px 0;
+            border-left: 4px solid #27ae60;
+        }
+        .technical-box {
+            background-color: #fff3cd;
+            padding: 15px;
+            border-radius: 4px;
+            margin: 20px 0;
+            border-left: 4px solid #ffc107;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Holmesism Privacy Policy</h1>
+
+        <h2>Overview</h2>
+        <p>Holmesism is an AI-powered debugging assistant that respects your privacy. This app is designed to keep your data local and secure while providing intelligent problem-solving assistance.</p>
+
+        <h2>Data Collection</h2>
+
+        <h3>What We Collect</h3>
+        <div class="highlight">
+            <strong>Holmesism does not collect, store, or transmit any personal information.</strong>
+        </div>
+
+        <p>The app operates entirely on your device and does not:</p>
+        <ul>
+            <li>Collect personal information</li>
+            <li>Track your usage</li>
+            <li>Share data with third parties</li>
+            <li>Store information on external servers</li>
+        </ul>
+
+        <h3>Local Data Storage</h3>
+        <p>All data is stored locally on your device using iOS Core Data:</p>
+        <ul>
+            <li><strong>Problem investigations</strong> - Your debugging cases and evidence</li>
+            <li><strong>AI-generated hypotheses</strong> - Suggestions created by the app</li>
+            <li><strong>Solution documentation</strong> - Your problem-solving solutions</li>
+            <li><strong>App preferences</strong> - Your settings and configurations</li>
+        </ul>
+
+        <p>This data remains on your device and is never transmitted to external servers.</p>
+
+        <h2>AI Features</h2>
+
+        <h3>Local Processing</h3>
+        <p>The AI analysis features in Holmesism:</p>
+        <ul>
+            <li>Process data entirely on your device</li>
+            <li>Do not send your code or error messages to external servers</li>
+            <li>Generate suggestions based on local analysis</li>
+            <li>Maintain complete privacy of your debugging information</li>
+        </ul>
+
+        <h3>No External AI Services</h3>
+        <p>Unlike other AI tools that may send your data to cloud services, Holmesism:</p>
+        <ul>
+            <li>Keeps all analysis local</li>
+            <li>Does not require internet connectivity for AI features</li>
+            <li>Ensures your debugging information never leaves your device</li>
+        </ul>
+
+        <h2>Data Security</h2>
+
+        <h3>Device-Level Protection</h3>
+        <p>Your data is protected by:</p>
+        <ul>
+            <li>iOS device encryption</li>
+            <li>Core Data security features</li>
+            <li>Local storage only</li>
+            <li>No network transmission</li>
+        </ul>
+
+        <h3>Data Retention</h3>
+        <ul>
+            <li>Data persists only on your device</li>
+            <li>No automatic deletion</li>
+            <li>You control all data through the app</li>
+            <li>Clear history function available</li>
+        </ul>
+
+        <h2>Third-Party Services</h2>
+
+        <h3>No Third-Party Tracking</h3>
+        <p>Holmesism does not integrate with:</p>
+        <ul>
+            <li>Analytics services</li>
+            <li>Advertising networks</li>
+            <li>Social media platforms</li>
+            <li>External data collection tools</li>
+        </ul>
+
+        <h3>App Store Analytics</h3>
+        <p>The only external data collection is standard App Store analytics:</p>
+        <ul>
+            <li>App usage statistics (anonymous)</li>
+            <li>Crash reports (if you opt in)</li>
+            <li>Performance metrics (aggregated)</li>
+        </ul>
+
+        <h2>Children's Privacy</h2>
+
+        <h3>No Child Data Collection</h3>
+        <p>Holmesism does not knowingly collect information from children under 13. The app is designed for professional developers and technical users.</p>
+
+        <h2>Your Rights</h2>
+
+        <h3>Data Control</h3>
+        <p>You have complete control over your data:</p>
+        <ul>
+            <li>View all stored information in the app</li>
+            <li>Delete individual investigations</li>
+            <li>Clear all history</li>
+            <li>Export data (if implemented in future versions)</li>
+        </ul>
+
+        <h3>Data Portability</h3>
+        <p>Your data is stored in standard Core Data format and can be accessed through:</p>
+        <ul>
+            <li>iOS device backups</li>
+            <li>iTunes/Finder backups</li>
+            <li>iCloud backups (if enabled)</li>
+        </ul>
+
+        <h2>Updates to This Policy</h2>
+
+        <h3>Policy Changes</h3>
+        <p>We may update this privacy policy as the app evolves. Changes will be:</p>
+        <ul>
+            <li>Posted in the app</li>
+            <li>Available on GitHub</li>
+            <li>Notified through App Store updates</li>
+        </ul>
+
+        <h3>Contact Information</h3>
+        <div class="contact-info">
+            <p>For privacy questions, contact:</p>
+            <ul>
+                <li>Email: <a href="mailto:tony.hill.dev.bourbon@gmail.com">tony.hill.dev.bourbon@gmail.com</a></li>
+                <li>GitHub: <a href="https://github.com/anthonyh0114/holmesism">Repository Issues</a></li>
+            </ul>
+        </div>
+
+        <h2>Compliance</h2>
+
+        <div class="compliance-box">
+            <h3>GDPR Compliance</h3>
+            <p>Holmesism complies with GDPR principles:</p>
+            <ul>
+                <li><strong>Data Minimization</strong>: Only stores necessary debugging information</li>
+                <li><strong>Purpose Limitation</strong>: Data used only for debugging assistance</li>
+                <li><strong>Storage Limitation</strong>: Data kept only as long as you choose</li>
+                <li><strong>Integrity and Confidentiality</strong>: Local storage with device encryption</li>
+            </ul>
+        </div>
+
+        <div class="compliance-box">
+            <h3>CCPA Compliance</h3>
+            <p>For California residents:</p>
+            <ul>
+                <li>No personal information collected</li>
+                <li>No data sold or shared</li>
+                <li>Complete local control over data</li>
+                <li>Right to delete data through app features</li>
+            </ul>
+        </div>
+
+        <h2>Technical Details</h2>
+
+        <div class="technical-box">
+            <h3>Data Storage Location</h3>
+            <ul>
+                <li><strong>Primary</strong>: Your iOS device</li>
+                <li><strong>Backup</strong>: iCloud (if enabled by user)</li>
+                <li><strong>No external servers</strong>: Zero cloud storage</li>
+            </ul>
+        </div>
+
+        <h3>Data Types Stored</h3>
+        <ul>
+            <li>Problem descriptions (user-created)</li>
+            <li>Evidence details (user-created)</li>
+            <li>AI-generated hypotheses (local processing)</li>
+            <li>Solution documentation (user-created)</li>
+            <li>App preferences (user-configured)</li>
+        </ul>
+
+        <h3>Data Encryption</h3>
+        <ul>
+            <li>Core Data uses iOS encryption</li>
+            <li>Device-level security</li>
+            <li>No additional encryption needed (handled by iOS)</li>
+        </ul>
+
+        <h2>Transparency</h2>
+
+        <h3>Open Source</h3>
+        <p>Holmesism's privacy practices are transparent:</p>
+        <ul>
+            <li>Source code available on GitHub</li>
+            <li>Privacy policy publicly accessible</li>
+            <li>No hidden data collection</li>
+            <li>Complete user control</li>
+        </ul>
+
+        <h3>User Awareness</h3>
+        <p>The app clearly indicates:</p>
+        <ul>
+            <li>Local-only data storage</li>
+            <li>No network transmission</li>
+            <li>Complete user control</li>
+            <li>Privacy-first design</li>
+        </ul>
+
+        <div class="footer">
+            <p><strong>Last Updated</strong>: December 2024<br>
+            <strong>Version</strong>: 1.0<br>
+            <strong>Effective Date</strong>: App Launch</p>
+            
+            <p><em>This privacy policy reflects Holmesism's commitment to user privacy and data protection.</em></p>
+        </div>
+    </div>
+</body>
+</html>
